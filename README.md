@@ -22,5 +22,5 @@ I'm a second-year undergraduate at NSBM Green University, dedicated to pursuing 
 
 
 <img src = "https://upload.wikimedia.org/wikipedia/en/3/31/Ananda_Crest.png"  height="40px" align="left" />
-<img  src="https://www.abclanka.com/wp-content/uploads/2015/02/NSBM-Logo.png"    height="40px" align="left" />
+<img  src="https://www.abclanka.com/wp-content/uploads/2015/02/NSBM-Logo.png"    height="70px" align="left" />
 
