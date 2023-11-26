@@ -1,4 +1,4 @@
-# 🏄‍♂️ Hansana Senadheera
+#  Hansana Senadheera
 
 **`Undergraduate at NSBM & UOC`**
 
