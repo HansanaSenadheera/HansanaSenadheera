@@ -23,8 +23,3 @@ I'm a second-year undergraduate at NSBM Green University, dedicated to pursuing 
 <br />
 <br />
 
-
-
-
-<img src = "https://upload.wikimedia.org/wikipedia/en/3/31/Ananda_Crest.png"  height="40px" align="left" />
-<img src="https://cmb.ac.lk/wp-content/uploads/logo-color.png" height="40px" align="left" />
