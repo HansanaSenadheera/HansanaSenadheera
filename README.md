@@ -20,5 +20,5 @@ I'm a second-year undergraduate at NSBM Green University, dedicated to pursuing 
 
 <br />
 
-<img  src="https://www.vhv.rs/dpng/d/372-3721900_transparent-green-design-png-nsbm-green-university-town.png"  />
+<img  src="[https://www.vhv.rs/dpng/d/372-3721900_transparent-green-design-png-nsbm-green-university-town.png](https://www.abclanka.com/wp-content/uploads/2015/02/NSBM-Logo.png)https://www.abclanka.com/wp-content/uploads/2015/02/NSBM-Logo.png"    height="40px" />
 
