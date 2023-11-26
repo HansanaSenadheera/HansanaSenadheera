@@ -2,7 +2,7 @@
 
 **`Undergraduate at NSBM & UOC`**
 
-I'm a second-year undergraduate at NSBM Green University, dedicated to pursuing a degree in Computer Networks. Simultaneously, I'm also a second-year student at the University of Colombo Faculty of Computing, working towards a degree in Information Technology. As an ethical individual, I am committed to giving my best in contributing to the creation of a better Earth. My passion lies in the realm of computer networks, and I am eager to leverage my skills for positive impact. Let's code for a sustainable future!
+Hiiii! , I'm a second-year undergraduate at NSBM Green University, dedicated to pursuing a degree in Computer Networks. Simultaneously, I'm also a second-year student at the University of Colombo Faculty of Computing, working towards a degree in Information Technology. As an ethical individual, I am committed to giving my best in contributing to the creation of a better Earth. My passion lies in the realm of computer networks, and I am eager to leverage my skills for positive impact. Let's code for a sustainable future!
 
   
 
